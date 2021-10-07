@@ -9,6 +9,7 @@ SVG Logo
 [VsCode]
 
 #### Attributions
+[Google Fonts] Playfair Display by (https://fonts.google.com)
 
 
 ##### License
